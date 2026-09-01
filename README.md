@@ -15,7 +15,11 @@ This project walks through a full data science pipeline: data collection, data w
 ```
 datascience_capstone/
 ├── README.md
-├── ds-capstone-presentation.pdf
+├── presentation/
+│   ├── ds-capstone-presentation.pdf
+│   ├── ds-capstone-presentation.ppt
+│   ├── ds-capstone-presentation_feedback.ppt
+├── images
 ├── notebooks/
 │   ├── jupyter-labs-spacex-data-collection-api-v2.ipynb
 │   ├── jupyter-labs-webscraping.ipynb
