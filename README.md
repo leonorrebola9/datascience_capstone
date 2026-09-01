@@ -18,7 +18,7 @@ datascience_capstone/
 ├── presentation/
 │   ├── ds-capstone-presentation.pdf
 │   ├── ds-capstone-presentation.ppt
-│   ├── ds-capstone-presentation_feedback.ppt
+│   ├── ds-capstone-presentation_feedback.pdf
 ├── images
 ├── notebooks/
 │   ├── jupyter-labs-spacex-data-collection-api-v2.ipynb
