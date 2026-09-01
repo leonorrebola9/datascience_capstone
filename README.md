@@ -2,6 +2,8 @@
 
 Capstone project for the **IBM Data Science Professional Certificate**. This project predicts whether the first stage of a SpaceX Falcon 9 rocket will land successfully, using historical launch data collected via the SpaceX API and web scraping, then explored, visualized, and modeled with machine learning.
 
+🎓 **[IBM Data Science Professional Certificate — Verify Credential](https://coursera.org/share/e5781d26affd738ba104da589ba19ed3)**
+
 ## Project Overview
 
 SpaceX advertises Falcon 9 launches at $62 million, compared to $165+ million from other providers — largely because SpaceX reuses the rocket's first stage. If we can predict whether the first stage will land successfully, we can estimate the cost of a launch, which is valuable information for any company bidding against SpaceX.
