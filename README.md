@@ -12,16 +12,32 @@ This project walks through a full data science pipeline: data collection, data w
 
 ## Repository Structure
 
+```
+datascience_capstone/
+├── README.md
+├── ds-capstone-presentation.pdf
+├── notebooks/
+│   ├── jupyter-labs-spacex-data-collection-api-v2.ipynb
+│   ├── jupyter-labs-webscraping.ipynb
+│   ├── labs-jupyter-spacex-data-wrangling-v2.ipynb
+│   ├── jupyter-labs-eda-dataviz-v2.ipynb
+│   ├── jupyter-labs-eda-sql-coursera_sqllite.ipynb
+│   ├── lab-jupyter-launch-site-location-v2.ipynb
+│   └── SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb
+└── dashboard/
+    └── spacex-dash-app.py
+```
+
 | File | Description |
 |---|---|
-| `jupyter-labs-spacex-data-collection-api-v2.ipynb` | Collects launch data from the SpaceX REST API |
-| `jupyter-labs-webscraping.ipynb` | Scrapes historical Falcon 9/Heavy launch records from Wikipedia |
-| `labs-jupyter-spacex-data-wrangling-v2.ipynb` | Cleans the data and builds the binary landing outcome label (`Class`) |
-| `jupyter-labs-eda-dataviz-v2.ipynb` | Exploratory data analysis with Matplotlib/Seaborn |
-| `jupyter-labs-eda-sql-coursera_sqllite.ipynb` | Exploratory data analysis with SQL |
-| `lab-jupyter-launch-site-location-v2.ipynb` | Interactive launch site map built with Folium |
-| `spacex-dash-app.py` | Interactive dashboard built with Plotly Dash |
-| `SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb` | Builds, tunes, and evaluates classification models |
+| `notebooks/jupyter-labs-spacex-data-collection-api-v2.ipynb` | Collects launch data from the SpaceX REST API |
+| `notebooks/jupyter-labs-webscraping.ipynb` | Scrapes historical Falcon 9/Heavy launch records from Wikipedia |
+| `notebooks/labs-jupyter-spacex-data-wrangling-v2.ipynb` | Cleans the data and builds the binary landing outcome label (`Class`) |
+| `notebooks/jupyter-labs-eda-dataviz-v2.ipynb` | Exploratory data analysis with Matplotlib/Seaborn |
+| `notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb` | Exploratory data analysis with SQL |
+| `notebooks/lab-jupyter-launch-site-location-v2.ipynb` | Interactive launch site map built with Folium |
+| `notebooks/SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb` | Builds, tunes, and evaluates classification models |
+| `dashboard/spacex-dash-app.py` | Interactive dashboard built with Plotly Dash |
 | `ds-capstone-presentation.pdf` | Final summary presentation of the project |
 
 ## Methodology
